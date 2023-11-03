@@ -1,5 +1,6 @@
 # Reinforcement Learning: An Introduction
 
+- TRY git clone the forked repo and change locally, then git push to update the GitHub repo
 ```diff
 @@ I am looking for self-motivated students interested in RL at different levels! @@
 @@ Visit https://shangtongzhang.github.io/people/ for more details. @@
